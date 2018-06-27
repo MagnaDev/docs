@@ -1,1 +1,1 @@
-# Work God Damn It
+# MagnaLabs Docs
