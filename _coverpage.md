@@ -1,3 +1,5 @@
+![logo](_assets/images/logo.png)
+
 # docs
 
-[Get Started](#magnalabs-docs)
+[Get Started](README)
